@@ -65,5 +65,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-プロフィール（仮）、ポートフォリオ[1]
+[HTML コマンド・リファレンス][1]
 [1]:https://netaro-n.github.io/basic-programming-roadmap/
