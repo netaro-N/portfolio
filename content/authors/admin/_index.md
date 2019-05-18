@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 個人開発者
+role: 個人開発者（仮）
 
 # Organizations/Affiliations
 organizations:
